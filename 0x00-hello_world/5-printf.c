@@ -3,7 +3,6 @@
 /**
  * main - entry point
  * description: printing a statement
- *
  * return 0: after printing function
  */
 int main(void)
